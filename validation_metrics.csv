@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1,FPR,Training_Time_s
+Gradient Boosting,0.9985,0.996,0.996,0.996,0.0009,7.17
+Decision Tree,0.9977,0.9934,0.9941,0.9938,0.0015,15.63
+Random Forest,0.9975,0.9956,0.9908,0.9932,0.001,21.12
+Linear SVM,0.9529,0.8728,0.876,0.8744,0.0294,81.73
+Logistic Regression,0.9483,0.8465,0.8841,0.8649,0.0369,15.36
